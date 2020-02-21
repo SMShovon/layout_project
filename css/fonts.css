@@ -1,0 +1,347 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?8mfbxs');
+  src:  url('../fonts/icomoon.eot?8mfbxs#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?8mfbxs') format('truetype'),
+    url('../fonts/icomoon.woff?8mfbxs') format('woff'),
+    url('../fonts/icomoon.svg?8mfbxs#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-apple:before {
+  content: "\e900";
+}
+.icon-appTabIcon5:before {
+  content: "\e901";
+  color: #e97425;
+}
+.icon-chat .path1:before {
+  content: "\e902";
+  color: rgb(255, 255, 255);
+}
+.icon-chat .path2:before {
+  content: "\e903";
+  margin-left: -1.0927734375em;
+  color: rgb(20, 20, 20);
+}
+.icon-chat .path3:before {
+  content: "\e904";
+  margin-left: -1.0927734375em;
+  color: rgb(20, 20, 20);
+}
+.icon-chat .path4:before {
+  content: "\e905";
+  margin-left: -1.0927734375em;
+  color: rgb(20, 20, 20);
+}
+.icon-chat .path5:before {
+  content: "\e906";
+  margin-left: -1.0927734375em;
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+.icon-dribble .path1:before {
+  content: "\e907";
+  color: rgb(231, 77, 137);
+}
+.icon-dribble .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(178, 33, 90);
+}
+.icon-github:before {
+  content: "\e909";
+  color: #fff;
+}
+.icon-google .path1:before {
+  content: "\e90a";
+  color: rgb(66, 133, 244);
+}
+.icon-google .path2:before {
+  content: "\e90b";
+  margin-left: -0.9775390625em;
+  color: rgb(52, 168, 83);
+}
+.icon-google .path3:before {
+  content: "\e90c";
+  margin-left: -0.9775390625em;
+  color: rgb(251, 188, 5);
+}
+.icon-google .path4:before {
+  content: "\e90d";
+  margin-left: -0.9775390625em;
+  color: rgb(235, 67, 53);
+}
+.icon-group-cea .path1:before {
+  content: "\e90e";
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+.icon-group-cea .path2:before {
+  content: "\e90f";
+  margin-left: -1.146484375em;
+  color: rgb(255, 255, 255);
+}
+.icon-group-cea .path3:before {
+  content: "\e910";
+  margin-left: -1.146484375em;
+  color: rgb(9, 20, 46);
+}
+.icon-group-cea .path4:before {
+  content: "\e911";
+  margin-left: -1.146484375em;
+  color: rgb(255, 255, 255);
+}
+.icon-group-cea .path5:before {
+  content: "\e912";
+  margin-left: -1.146484375em;
+  color: rgb(255, 255, 255);
+}
+.icon-keyFeature-1 .path1:before {
+  content: "\e913";
+  color: rgb(255, 67, 97);
+  opacity: 0.1020;
+}
+.icon-keyFeature-1 .path2:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(255, 67, 97);
+}
+.icon-keyFeature-2:before {
+  content: "\e915";
+  color: #2563ff;
+}
+.icon-keyFeature-3 .path1:before {
+  content: "\e916";
+  color: rgb(228, 255, 238);
+}
+.icon-keyFeature-3 .path2:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(64, 151, 95);
+}
+.icon-laptop-code:before {
+  content: "\e918";
+}
+.icon-mailchimp .path1:before {
+  content: "\e919";
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path2:before {
+  content: "\e91a";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path3:before {
+  content: "\e91b";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path4:before {
+  content: "\e91c";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path5:before {
+  content: "\e91d";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path6:before {
+  content: "\e91e";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path7:before {
+  content: "\e91f";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path8:before {
+  content: "\e920";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path9:before {
+  content: "\e921";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path10:before {
+  content: "\e922";
+  margin-left: -0.8798828125em;
+  color: rgb(20, 28, 38);
+}
+.icon-mailchimp .path11:before {
+  content: "\e923";
+  margin-left: -0.8798828125em;
+  color: rgb(133, 98, 73);
+}
+.icon-mailchimp .path12:before {
+  content: "\e924";
+  margin-left: -0.8798828125em;
+  color: rgb(133, 98, 73);
+}
+.icon-mailchimp .path13:before {
+  content: "\e925";
+  margin-left: -0.8798828125em;
+  color: rgb(133, 98, 73);
+}
+.icon-mailchimp .path14:before {
+  content: "\e926";
+  margin-left: -0.8798828125em;
+  color: rgb(52, 120, 173);
+}
+.icon-mailchimp .path15:before {
+  content: "\e927";
+  margin-left: -0.8798828125em;
+  color: rgb(252, 233, 201);
+}
+.icon-mailchimp .path16:before {
+  content: "\e928";
+  margin-left: -0.8798828125em;
+  color: rgb(252, 233, 201);
+}
+.icon-mailchimp .path17:before {
+  content: "\e929";
+  margin-left: -0.8798828125em;
+  color: rgb(77, 148, 195);
+}
+.icon-mailchimp .path18:before {
+  content: "\e92a";
+  margin-left: -0.8798828125em;
+  color: rgb(255, 255, 255);
+}
+.icon-mailchimp .path19:before {
+  content: "\e92b";
+  margin-left: -0.8798828125em;
+  color: rgb(239, 207, 165);
+}
+.icon-mailchimp .path20:before {
+  content: "\e92c";
+  margin-left: -0.8798828125em;
+  color: rgb(239, 207, 165);
+}
+.icon-mailchimp .path21:before {
+  content: "\e92d";
+  margin-left: -0.8798828125em;
+  color: rgb(239, 207, 165);
+}
+.icon-mailchimp .path22:before {
+  content: "\e92e";
+  margin-left: -0.8798828125em;
+  color: rgb(239, 207, 165);
+}
+.icon-mailchimp .path23:before {
+  content: "\e92f";
+  margin-left: -0.8798828125em;
+  color: rgb(239, 207, 165);
+}
+.icon-mailchimp .path24:before {
+  content: "\e930";
+  margin-left: -0.8798828125em;
+  color: rgb(239, 207, 165);
+}
+.icon-mailchimp .path25:before {
+  content: "\e931";
+  margin-left: -0.8798828125em;
+  color: rgb(239, 207, 165);
+}
+.icon-mailchimp .path26:before {
+  content: "\e932";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path27:before {
+  content: "\e933";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path28:before {
+  content: "\e934";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path29:before {
+  content: "\e935";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path30:before {
+  content: "\e936";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path31:before {
+  content: "\e937";
+  margin-left: -0.8798828125em;
+  color: rgb(225, 178, 126);
+}
+.icon-mailchimp .path32:before {
+  content: "\e938";
+  margin-left: -0.8798828125em;
+  color: rgb(225, 178, 126);
+}
+.icon-mailchimp .path33:before {
+  content: "\e939";
+  margin-left: -0.8798828125em;
+  color: rgb(89, 71, 61);
+}
+.icon-mailchimp .path34:before {
+  content: "\e93a";
+  margin-left: -0.8798828125em;
+  color: rgb(250, 206, 86);
+}
+.icon-mailchimp .path35:before {
+  content: "\e93b";
+  margin-left: -0.8798828125em;
+  color: rgb(77, 148, 195);
+}
+.icon-mailchimp .path36:before {
+  content: "\e93c";
+  margin-left: -0.8798828125em;
+  color: rgb(77, 148, 195);
+}
+.icon-mailchimp .path37:before {
+  content: "\e93d";
+  margin-left: -0.8798828125em;
+  color: rgb(20, 28, 38);
+}
+.icon-mailchimp .path38:before {
+  content: "\e93e";
+  margin-left: -0.8798828125em;
+  color: rgb(20, 28, 38);
+}
+.icon-mailchimp .path39:before {
+  content: "\e93f";
+  margin-left: -0.8798828125em;
+  color: rgb(20, 28, 38);
+}
+.icon-mailchimp .path40:before {
+  content: "\e940";
+  margin-left: -0.8798828125em;
+  color: rgb(255, 255, 255);
+}
+.icon-pencil-ruler:before {
+  content: "\e941";
+}
+.icon-tasks:before {
+  content: "\e942";
+}
